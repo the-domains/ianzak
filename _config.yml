@@ -1,0 +1,28 @@
+name: ianzak
+favicon: null
+layout_spectrum: 0.6551232067868114
+typography_spectrum: 0.06259419466368854
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7059471816755831
+  lightness: 0.9823142238892615
+  saturation: 0.05968301370739937
+  rhythmicContrast: 0.24879549606703222
+purpose: []
