@@ -1,7 +1,7 @@
 name: ianzak
 favicon: null
-layout_spectrum: 0.6551232067868114
-typography_spectrum: 0.06259419466368854
+layout_spectrum: 0.38292
+typography_spectrum: 0.1505
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#010101'
+    - '#045e69'
+    - '#1d8d8f'
+    - '#58d0c4'
   brandStrength: 0.7059471816755831
   lightness: 0.9823142238892615
   saturation: 0.05968301370739937
